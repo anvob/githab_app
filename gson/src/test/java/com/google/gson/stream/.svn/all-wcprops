@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/!svn/ver/1307/trunk/gson/src/test/java/com/google/gson/stream
+END
+JsonWriterTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/!svn/ver/1235/trunk/gson/src/test/java/com/google/gson/stream/JsonWriterTest.java
+END
+JsonReaderPathTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/!svn/ver/1307/trunk/gson/src/test/java/com/google/gson/stream/JsonReaderPathTest.java
+END
+JsonReaderTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/!svn/ver/1307/trunk/gson/src/test/java/com/google/gson/stream/JsonReaderTest.java
+END

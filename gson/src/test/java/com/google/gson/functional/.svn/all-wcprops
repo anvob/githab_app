@@ -1,0 +1,287 @@
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/!svn/ver/1320/trunk/gson/src/test/java/com/google/gson/functional
+END
+InterfaceTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/!svn/ver/474/trunk/gson/src/test/java/com/google/gson/functional/InterfaceTest.java
+END
+PrettyPrintingTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svn/!svn/ver/640/trunk/gson/src/test/java/com/google/gson/functional/PrettyPrintingTest.java
+END
+UncategorizedTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svn/!svn/ver/764/trunk/gson/src/test/java/com/google/gson/functional/UncategorizedTest.java
+END
+EnumTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/!svn/ver/1230/trunk/gson/src/test/java/com/google/gson/functional/EnumTest.java
+END
+StringTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/!svn/ver/926/trunk/gson/src/test/java/com/google/gson/functional/StringTest.java
+END
+ObjectTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/!svn/ver/1235/trunk/gson/src/test/java/com/google/gson/functional/ObjectTest.java
+END
+PrimitiveTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/!svn/ver/1248/trunk/gson/src/test/java/com/google/gson/functional/PrimitiveTest.java
+END
+MoreSpecificTypeSerializationTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/svn/!svn/ver/828/trunk/gson/src/test/java/com/google/gson/functional/MoreSpecificTypeSerializationTest.java
+END
+DefaultTypeAdaptersTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/svn/!svn/ver/1226/trunk/gson/src/test/java/com/google/gson/functional/DefaultTypeAdaptersTest.java
+END
+CustomDeserializerTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/svn/!svn/ver/930/trunk/gson/src/test/java/com/google/gson/functional/CustomDeserializerTest.java
+END
+MapTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/!svn/ver/1224/trunk/gson/src/test/java/com/google/gson/functional/MapTest.java
+END
+FieldExclusionTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svn/!svn/ver/975/trunk/gson/src/test/java/com/google/gson/functional/FieldExclusionTest.java
+END
+FieldNamingTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svn/!svn/ver/1032/trunk/gson/src/test/java/com/google/gson/functional/FieldNamingTest.java
+END
+ArrayTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/!svn/ver/990/trunk/gson/src/test/java/com/google/gson/functional/ArrayTest.java
+END
+StreamingTypeAdaptersTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/svn/!svn/ver/1122/trunk/gson/src/test/java/com/google/gson/functional/StreamingTypeAdaptersTest.java
+END
+ParameterizedTypesTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/svn/!svn/ver/1030/trunk/gson/src/test/java/com/google/gson/functional/ParameterizedTypesTest.java
+END
+VersioningTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/!svn/ver/977/trunk/gson/src/test/java/com/google/gson/functional/VersioningTest.java
+END
+CircularReferenceTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/svn/!svn/ver/1309/trunk/gson/src/test/java/com/google/gson/functional/CircularReferenceTest.java
+END
+InstanceCreatorTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/svn/!svn/ver/1235/trunk/gson/src/test/java/com/google/gson/functional/InstanceCreatorTest.java
+END
+PrimitiveCharacterTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/svn/!svn/ver/948/trunk/gson/src/test/java/com/google/gson/functional/PrimitiveCharacterTest.java
+END
+TreeTypeAdaptersTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/svn/!svn/ver/1045/trunk/gson/src/test/java/com/google/gson/functional/TreeTypeAdaptersTest.java
+END
+PrintFormattingTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svn/!svn/ver/998/trunk/gson/src/test/java/com/google/gson/functional/PrintFormattingTest.java
+END
+RawSerializationTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/svn/!svn/ver/859/trunk/gson/src/test/java/com/google/gson/functional/RawSerializationTest.java
+END
+NullObjectAndFieldTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/svn/!svn/ver/1092/trunk/gson/src/test/java/com/google/gson/functional/NullObjectAndFieldTest.java
+END
+JsonAdapterAnnotationOnFieldsTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 109
+/svn/!svn/ver/1289/trunk/gson/src/test/java/com/google/gson/functional/JsonAdapterAnnotationOnFieldsTest.java
+END
+NamingPolicyTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svn/!svn/ver/990/trunk/gson/src/test/java/com/google/gson/functional/NamingPolicyTest.java
+END
+ExposeFieldsTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svn/!svn/ver/1269/trunk/gson/src/test/java/com/google/gson/functional/ExposeFieldsTest.java
+END
+TypeAdapterPrecedenceTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/svn/!svn/ver/1063/trunk/gson/src/test/java/com/google/gson/functional/TypeAdapterPrecedenceTest.java
+END
+CustomTypeAdaptersTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/svn/!svn/ver/1170/trunk/gson/src/test/java/com/google/gson/functional/CustomTypeAdaptersTest.java
+END
+RuntimeTypeAdapterFactoryFunctionalTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 115
+/svn/!svn/ver/1320/trunk/gson/src/test/java/com/google/gson/functional/RuntimeTypeAdapterFactoryFunctionalTest.java
+END
+MapAsArrayTypeAdapterTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/svn/!svn/ver/940/trunk/gson/src/test/java/com/google/gson/functional/MapAsArrayTypeAdapterTest.java
+END
+CustomSerializerTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/svn/!svn/ver/494/trunk/gson/src/test/java/com/google/gson/functional/CustomSerializerTest.java
+END
+ReadersWritersTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svn/!svn/ver/1007/trunk/gson/src/test/java/com/google/gson/functional/ReadersWritersTest.java
+END
+InternationalizationTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/svn/!svn/ver/342/trunk/gson/src/test/java/com/google/gson/functional/InternationalizationTest.java
+END
+SecurityTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/!svn/ver/401/trunk/gson/src/test/java/com/google/gson/functional/SecurityTest.java
+END
+ThrowableFunctionalTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/svn/!svn/ver/1319/trunk/gson/src/test/java/com/google/gson/functional/ThrowableFunctionalTest.java
+END
+DelegateTypeAdapterTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/svn/!svn/ver/1160/trunk/gson/src/test/java/com/google/gson/functional/DelegateTypeAdapterTest.java
+END
+ExclusionStrategyFunctionalTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/svn/!svn/ver/1111/trunk/gson/src/test/java/com/google/gson/functional/ExclusionStrategyFunctionalTest.java
+END
+JsonAdapterAnnotationOnClassesTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 110
+/svn/!svn/ver/1307/trunk/gson/src/test/java/com/google/gson/functional/JsonAdapterAnnotationOnClassesTest.java
+END
+TypeHierarchyAdapterTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/svn/!svn/ver/1043/trunk/gson/src/test/java/com/google/gson/functional/TypeHierarchyAdapterTest.java
+END
+JsonParserTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/!svn/ver/1156/trunk/gson/src/test/java/com/google/gson/functional/JsonParserTest.java
+END
+TypeVariableTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svn/!svn/ver/707/trunk/gson/src/test/java/com/google/gson/functional/TypeVariableTest.java
+END
+InheritanceTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svn/!svn/ver/1216/trunk/gson/src/test/java/com/google/gson/functional/InheritanceTest.java
+END
+JsonTreeTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/!svn/ver/1004/trunk/gson/src/test/java/com/google/gson/functional/JsonTreeTest.java
+END
+EscapingTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/!svn/ver/676/trunk/gson/src/test/java/com/google/gson/functional/EscapingTest.java
+END
+ConcurrencyTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/!svn/ver/451/trunk/gson/src/test/java/com/google/gson/functional/ConcurrencyTest.java
+END
+CollectionTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/!svn/ver/1001/trunk/gson/src/test/java/com/google/gson/functional/CollectionTest.java
+END

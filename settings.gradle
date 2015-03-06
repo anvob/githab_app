@@ -1,0 +1,1 @@
+include ':gson',':org.eclipse.egit.github.core',':app'

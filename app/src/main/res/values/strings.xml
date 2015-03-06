@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">MyGitHub</string>
+    <string name="github">GitHub.com</string>
+    <string name="title_activity_repositories">Repositories</string>
+    <string name="title_activity_commit">Commits</string>
+    <string name="title_activity_account_list">AccountListActivity</string>
+    <string name="action_settings">Settings</string>
+    <string name="action_logout">Logout</string>
+    <string name="action_exit">Exit</string>
+    <string name="action_update">Update</string>
+    <string name="error_load_repo">Sorry, but repository is null...</string>
+    <string name="error_load_user">Sorry, but user is null...</string>
+    <string name="error_internet">Sorry, internet connection is lost... please reconnect.</string>
+    <string name="error_commits">Problem with loading commits...</string>
+    <string name="error_ava">Problem with loading user avatar...</string>
+    <string name="error_repos">Problem with loading repositories...</string>
+    <string name="error_logins">Problem with connect to server..</string>
+
+
+    <string name="github_obtain_token_url">https://api.github.com/authorizations/clients/%1$s</string>
+    <string name="warning">Warning</string>
+    <string name="action_close">Cancel</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="question_exit">Do you want exit?</string>
+    <string name="question_logout">Do you want logout?</string>
+</resources>
